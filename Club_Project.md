@@ -4,6 +4,4 @@
 
 **My Role:** For this project I am in charge of most of the art assets, enemy movement, pathfinding and enemy design. An unexpected part of my role was making the enemies easily interact with the other peoples script. You can find some code for it [here](https://github.com/ParkerAllen/VariousCodeProjects){:target="_blank" rel="noopener"}.
 
-<video src="BossVideo.mp4" width="320" height="200" controls preload></video>
-
-
+<video src="images/BossVideo.mp4" width="320" height="200" controls preload></video>
