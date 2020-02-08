@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://parkerallen.github.io/Sol/)
+- [Sol](https://parkerallen.github.io/Sol/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
