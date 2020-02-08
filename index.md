@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Game(s) 
 
-[Project 1 Title](/sample_page)
+[Sol](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,8 @@
 
 ---
 
-### Category Name 2
+### Some Code
 
-- [Sol](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
