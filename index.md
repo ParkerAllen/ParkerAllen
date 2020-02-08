@@ -9,7 +9,7 @@
 
 ---
 [Club Game](/Club_Project.md)
-<img src="images/2DPlatformer.png?raw=true"/>
+<img src="images/2DPlatformer.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
