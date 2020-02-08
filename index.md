@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Sol](https://parkerallen.github.io/Sol/)
+- [Sol](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
