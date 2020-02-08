@@ -5,11 +5,11 @@
 ### Game(s) 
 
 [Sol](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
-<img src="images/SolBackground.jpg?raw=true"/>
+<img src="images/SolBackground.png?raw=true"/>
 
 ---
 [Club Game](/Club_Project.md)
-<img src="images/2DPlatformer.jpg?raw=true"/>
+<img src="images/2DPlatformer.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
