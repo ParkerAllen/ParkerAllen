@@ -15,7 +15,7 @@
 
 ### Some Code
 
-- [School Code Projects](https://github.com/ParkerAllen/SchoolCodeAssignments.git)
+- [School Code Projects](https://github.com/ParkerAllen/SchoolCodeAssignments.git){:target="_blank" rel="noopener"}
 
 ---
 
