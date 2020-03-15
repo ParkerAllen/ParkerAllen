@@ -16,6 +16,7 @@
 ### Some Code
 
 - [Various Code Projects](https://github.com/ParkerAllen/VariousCodeProjects){:target="_blank" rel="noopener"}
+- [Boid Project](https://parkerallen.github.io/PlayingWithBoids/){:target="_blank" rel="noopener"}
 
 ---
 
