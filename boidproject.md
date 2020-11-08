@@ -17,4 +17,4 @@ I put it together kind of quick so it doesn't look too good but it has some nice
 
 Demo of the project [here](https://parkerallen.github.io/BoidProject/){:target="_blank" rel="noopener"}
 
-<img src="images/ability1.gif">
+<img src="images/image.png">
