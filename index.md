@@ -4,6 +4,16 @@
 
 ### Game(s) 
 
+[BoidProject](/boidproject.md)
+<img src="images/image.png?raw=true"/>
+
+---
+
+[Polymorph](/polymorph.md)
+<img src="images/polyCap.png?raw=true"/>
+
+---
+
 [Sol](/sol.md)
 <img src="images/SolBackground.png?raw=true"/>
 
@@ -16,7 +26,6 @@
 ### Some Code
 
 - [Various Code Projects](https://github.com/ParkerAllen/VariousCodeProjects){:target="_blank" rel="noopener"}
-- [Boid Project](https://parkerallen.github.io/PlayingWithBoids/){:target="_blank" rel="noopener"}
 
 ---
 
