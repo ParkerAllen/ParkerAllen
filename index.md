@@ -10,7 +10,7 @@
 ---
 
 [Polymorph](/polymorph.md)
-<img src="images/polyCap.png?raw=true"/>
+<img src="images/polyCap.PNG?raw=true"/>
 
 ---
 
