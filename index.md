@@ -4,7 +4,7 @@
 
 ### Game(s) 
 
-[Sol](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
+[Sol](/sol.md)
 <img src="images/SolBackground.png?raw=true"/>
 
 ---
