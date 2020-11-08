@@ -5,4 +5,4 @@ and an enemy hate/friendly system. Everything besides the music was done by myse
 Demo of the game [here](https://parkerallen.github.io/Sol/){:target="_blank" rel="noopener"}
 
 <img src="images/ability1.gif">
-<img src="images/dragon.png">
+<img src="images/Dragon.png">
